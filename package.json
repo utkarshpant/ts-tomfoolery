@@ -1,0 +1,25 @@
+{
+  "name": "ts-tomfoolery",
+  "version": "1.0.0",
+  "description": "## Hi! This is where I aim to organise the notes I make as I learn TypeScript.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/utkarshpant/ts-tomfoolery.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/utkarshpant/ts-tomfoolery/issues"
+  },
+  "homepage": "https://github.com/utkarshpant/ts-tomfoolery#readme",
+  "dependencies": {
+    "@types/node": "^17.0.8",
+    "axios": "^0.24.0",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.4"
+  }
+}
