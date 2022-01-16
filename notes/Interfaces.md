@@ -12,7 +12,7 @@ interface Todo {
 };
 ```
 
-**1. With this interface defined, typos in code a highlighted:** <br>
+**1. With this interface defined, typos in code are highlighted:** <br>
 
 The IDE tells us that we have made an possible typo in `todo.ID`.
 ```
