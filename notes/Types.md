@@ -38,14 +38,5 @@ const Whisky: animal = {
     species: 'Canis familiaris',
     age: 2,
 }
-
-/**
- * In the above example,
- * each definition of the 
- * `animal` interface describes
- * a single property. TS merges
- * all declarations into a single
- * interface - making `Whisky`
- * a valid object of type `animal`.
- * **/
 ```
+ In the above example, each definition of the `animal` interface describes a single property. TS merges all declarations into a single interface - making `Whisky` a valid object of type `animal`.
